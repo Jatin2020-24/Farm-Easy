@@ -10,6 +10,9 @@ This is the official code repository for Farm Easy. This application was develop
 ### __Project Name__
 Natural Farms
 
+### Video Link:
+https://youtu.be/eh5kvlzRU6U
+
 ### Problem statement
 
 How to empower farmers to maximize their profit by eleminating the influence and dependency on 3rd Party as well as informing farmers on the new practices of farming and telling them
