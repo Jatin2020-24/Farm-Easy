@@ -13,6 +13,9 @@ Natural Farms
 ### Video Link:
 https://youtu.be/eh5kvlzRU6U
 
+### Deploy Link
+https://farm-easy11.herokuapp.com/
+
 ### Problem statement
 
 How to empower farmers to maximize their profit by eleminating the influence and dependency on 3rd Party as well as informing farmers on the new practices of farming and telling them
